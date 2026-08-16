@@ -1,0 +1,10 @@
+# Never commit real API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated username CSVs (optional - remove this line if you want to
+# track generated files in git)
+*_usernames.csv
